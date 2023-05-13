@@ -1,0 +1,16 @@
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\bin\Debug\BalatonWPF.exe.config
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\bin\Debug\BalatonWPF.exe
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\bin\Debug\BalatonWPF.pdb
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\App.g.cs
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF_MarkupCompile.cache
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF_MarkupCompile.lref
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\MainWindow.baml
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.g.resources
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.Properties.Resources.resources
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.csproj.GenerateResource.cache
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.exe
+C:\Users\Ervin\Desktop\asztali\balaton\BalatonWPF\BalatonWPF\obj\Debug\BalatonWPF.pdb
